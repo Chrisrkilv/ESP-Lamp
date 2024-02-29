@@ -5,17 +5,17 @@ A simple lamp design inspired by Xiaomi - [Thingiverse](https://www.thingiverse.
 Included is the ESPHome code is used to control the lamp with the rotary encoder and via Home Assistant.
 
 ## Parts & Wiring
-* Rotary Encoder with Click - https://amzn.to/48lDSXV
-* ESP32 Module (I used ESP32-C3-Supermini) - https://amzn.to/3vsUU7Z
-* M2, M3 & M4 Screws, Washers & Nuts - https://amzn.to/3TObHfK
-* 20mm Metal Washer (Can be printed but not recommended)
-* WS2811/WS2812/WS2812B or WS2813 (1 Meter 5V) LED Strip - https://amzn.to/3Havtuk
-* USB-C Female Ports - https://amzn.to/3TJWYT8
-* 10mm rubber feet (Or print in TPU) - https://amzn.to/3S9bQZY
-* Spare 1m cable with at least 3 Internal wires (I used an old USB cable).
+* [Rotary Encoder with Click](https://amzn.to/48lDSXV)
+* [ESP32 Module (I used ESP32-C3-Supermini)](https://amzn.to/3vsUU7Z)
+* [M2, M3 & M4 Screws, Washers & Nuts](https://amzn.to/3TObHfK)
+* [WS2811/WS2812/WS2812B or WS2813 (1 Meter 5V) LED Strip](https://amzn.to/3Havtuk)
+* [USB-C Female Ports](https://amzn.to/3TJWYT8)
+* [10mm rubber feet (Or print in TPU)](https://amzn.to/3S9bQZY)
+* [Spare 1m cable with at least 3 Internal wires (I used an old USB cable)](https://amzn.to/42WMq5y)
 * Other spare wires for general wiring of components
 * USB-C to USB-A Cable
 * USB-A power brick (at least 1.5A)
+* 20mm Metal Washer (Can be printed but not recommended)
 
 See the wiring diagram for detailed overview, full assembly and wiring instructions exist on thingiverse & printables. The Lamp includes an ESP32-C3-Supermini but any ESP32, ESP8266 device can be used for this project as long as it can run ESPHome or WLED.
 
